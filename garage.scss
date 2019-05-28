@@ -1,0 +1,43 @@
+body{
+  background-color: #ffe2a8;
+  font-family: "Eras Demi ITC";
+  font-weight:bold;
+}
+h1{
+  border: 1px solid black;
+  text-align:center;
+}
+.klant, .auto{
+  width:100%;
+  margin-bottom: 5px;
+  border:1px solid black;
+}
+th{
+  font-family: "none";
+  background-color: #ffce8c;
+}
+table, td, th {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+input{
+  //display:inline-block;
+  //margin-left:25%;
+  //width:25
+  //margin-left:25%;
+  font-family: "Bradley Hand ITC";
+  font-weight:bold;
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+form{
+  padding:5px;
+  background-color: #ffce8c;
+}
